@@ -1,0 +1,10 @@
+cd ~
+cp -R sandbox playpen
+ls
+cd playpen
+ls
+mv commands.txt play.txt
+mv dir1 folder1
+mv dir2 folder2
+ls 
+gedit play.txt

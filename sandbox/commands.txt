@@ -1,0 +1,14 @@
+cd ~
+mkdir sandbox
+cd sandbox
+gedit commands.txt
+mkdir dir1
+cd dir1
+cat > File1.txt
+ls
+cd ..
+mkdir dir2
+cd dir2
+cat > File2.txt
+ls
+cd ..
